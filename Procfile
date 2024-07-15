@@ -1,0 +1,1 @@
+web: java -jar target/Sistema-de-estoque-0.0.1-SNAPSHOT.jar
